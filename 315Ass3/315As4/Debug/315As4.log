@@ -1,0 +1,4 @@
+﻿  315As4.cpp
+C:\Users\efeki\Desktop\315Ass3\315As4\315As4.cpp(69,3): warning C4551: function call missing argument list
+C:\Users\efeki\Desktop\315Ass3\315As4\315As4.cpp(80,40): error C2440: '=': cannot convert from 'void *' to 'graphVertex *'
+C:\Users\efeki\Desktop\315Ass3\315As4\315As4.cpp(80,19): message : Conversion from 'void*' to pointer to non-'void' requires an explicit cast
